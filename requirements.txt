@@ -1,0 +1,15 @@
+bioinfokit
+numpy
+pandas 
+matplotlib
+seaborn
+scikit-learn
+xgboost
+uvicorn
+gunicorn
+fastapi 
+pydantic 
+pickle
+json
+
+
