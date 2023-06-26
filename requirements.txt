@@ -9,7 +9,7 @@ uvicorn
 gunicorn
 fastapi 
 pydantic 
-pickle
+pickleshare
 json
 
 
